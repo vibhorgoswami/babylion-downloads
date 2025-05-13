@@ -1,0 +1,16 @@
+[
+  {
+    "id": "coloring_page_2",
+    "title": "Lion Coloring Sheet",
+    "category": "coloring",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_1.png",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_1.png"
+  },
+  {
+    "id": "coloring_page_2",
+    "title": "Lion Coloring Sheet",
+    "category": "coloring",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_2.png",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_2.png"
+  }
+]
