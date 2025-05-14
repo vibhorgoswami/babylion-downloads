@@ -12,5 +12,40 @@
     "category": "coloring",
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_2.png",
     "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_2.png"
+  },
+  {
+    "id": "coloring_page_3",
+    "title": "Lion Coloring Sheet",
+    "category": "coloring",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_3.png",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_3.png"
+  },
+  {
+    "id": "coloring_page_4",
+    "title": "Lion Coloring Sheet",
+    "category": "coloring",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_4.png",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/coloring_page_4.png"
+  },
+  {
+    "id": "puzzle_page_1",
+    "title": "Lion Puzzle Sheet",
+    "category": "puzzles",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_1.png",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/puzzle_page_1.png"
+  },
+  {
+    "id": "puzzle_page_2",
+    "title": "Spot the difference",
+    "category": "puzzles",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_2.png",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/puzzle_page_2.png"
+  },
+  {
+    "id": "puzzle_page_3",
+    "title": "Spot the difference",
+    "category": "puzzles",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_3.png",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/puzzle_page_3.png"
   }
 ]
