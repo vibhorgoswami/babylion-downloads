@@ -37,7 +37,7 @@
     "category": "puzzles",
     "fileName" : "puzzle_page_1.png",
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_1.png",
-    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/puzzle_page_1.png"
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_1.png"
   },
   {
     "id": "puzzle_page_2",
@@ -45,7 +45,7 @@
     "category": "puzzles",
     "fileName" : "puzzle_page_2.png",
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_2.png",
-    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/puzzle_page_2.png"
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_2.png"
   },
   {
     "id": "puzzle_page_3",
@@ -53,6 +53,6 @@
     "category": "puzzles",
     "fileName" : "puzzle_page_3.png",
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_3.png",
-    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/coloring/puzzle_page_3.png"
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/vibhorgoswami/babylion-downloads/puzzles/puzzle_page_3.png"
   }
 ]
